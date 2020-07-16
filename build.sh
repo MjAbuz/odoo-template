@@ -1,7 +1,7 @@
 #!/bin/bash
 
 # Create the virtual environment if it does not exist
-[ ! -d env ] && virtualenv env
+[ ! -d env ] && python3 -m venv env
 
 # Activate the env and get the requirements
 . env/bin/activate
