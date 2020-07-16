@@ -1,4 +1,4 @@
-# Template Project
+# Template Odoo Bangla Project
 
 Template for an Odoo project.
 
